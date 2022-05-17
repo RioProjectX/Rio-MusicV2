@@ -1,0 +1,128 @@
+{
+  "name": "Xa Music V2",
+  "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
+  "logo": "https://telegra.ph/file/fecb50042cabee93dc20b.jpg",
+  "keywords": [
+  "python3",
+  "telegram",
+  "bot",
+  "telegram-bot",
+  "pyrogram"
+  ],
+  "stack": "container",
+  "env": {
+    "API_ID": {
+      "description": "Dapatkan Api Id mu Dari https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Dapatkan Api Hash mu Dari https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Bot Token Mu, Dapatkan Dari @Botfather",
+      "value": "",
+      "required": true
+    },
+    "DURATION_LIMIT": {
+      "description": "Durasi Maksimal Pemutaran (Menit).. Contoh: 60",
+      "value": "60",
+      "required": true
+    },
+    "ASSISTANT_PREFIX": {
+      "description": "Perintah Untuk Asisstant, Jika tidak mengerti isi saja (.).",
+      "value": ".",
+      "required": true
+    },
+    "MONGO_DB_URI": {
+      "description": "Mongo DB URL",
+      "value": "",
+      "required": true
+    },
+    "MUSIC_BOT_NAME": {
+      "description": "Nama Untuk Bot Music Mu.",
+      "value": "",
+      "required": true
+    },
+    "SUPPORT_CHANNEL": {
+      "description": "Link Channel Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
+      "value": "https://t.me/tirexgugel",
+      "required": false
+    },
+    "SUPPORT_GROUP": {
+      "description": "Link Group Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
+      "value": "https://t.me/rexaprivateroom",
+      "required": false
+    },
+    "OWNER_ID": {
+      "description": "Id yang ingin dijadikan Owner Bot Music mu. Lebih Dari 2 orang silahkan pisahkan dengan spasi.",
+      "value": "",
+      "required": true
+    },
+    "START_IMG_URL": {
+      "description": "Link Telegraph untuk Foto yang akan tampil saat di /start bot mu, Dapatkan di sini @ImageGraphBot",
+      "value": "",
+      "required": false
+    },
+    "STRING_SESSION1": {
+      "description": "Masukan Pyrogram String Session. Untuk Asisstant ke satu.",
+      "value": "",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "API Key akun Heroku Anda",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Nama App Name Heroku mu",
+      "value": "",
+      "required": false
+    },
+    "LOG_GROUP_ID": {
+      "description": "Log Group Id mu, tambahkan bot Anda dan promosikan sebagai admin dengan hak penuh!.  Gunakan Grup.  Tolong jangan gunakan ID Channel.",
+      "value": "",
+      "required": true
+    },
+    "SUDO_USERS": {
+      "description": "ID pengguna dari pengguna yang ingin Anda tambahkan sebagai SUDO.  Beberapa nilai harus dipisahkan dengan spasi.",
+      "value": "",
+      "required": true
+    },
+    "LOG_SESSION": {
+      "description": "Masukan Pyrogram String Session Asisstant kesatu saja .",
+      "value": "",
+      "required": true
+    },
+    "UPSTREAM_REPO": {
+      "description": "Silahkan /skip saja ",
+      "value": "https://github.com/Rexashh/xamusicv2",
+      "required": true
+    },
+    "UPSTREAM_BRANCH": {
+      "description": "gausah diganti",
+      "value": "master",
+      "required": true
+    }
+  },
+  "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}
