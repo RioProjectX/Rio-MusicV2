@@ -21,7 +21,7 @@
 <br>
 
 <h4>ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇɴ ᴅᴇᴘʟᴏʏ xᴀ ᴍᴜsɪᴄ ᴠ2  ᴅɪʜᴇʀᴏᴋᴜ!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Rexashh/Xamusicv2/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/RioProjectX/Rio-MusicV2/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>    
 
 </details>
 
