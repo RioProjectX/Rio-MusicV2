@@ -1,5 +1,5 @@
 {
-  "name": "Xa Music V2",
+  "name": "Rio Music V2",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://telegra.ph/file/fecb50042cabee93dc20b.jpg",
   "keywords": [
@@ -48,12 +48,12 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Link Channel Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
-      "value": "https://t.me/tirexgugel",
+      "value": "https://t.me/rioprojects",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Link Group Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
-      "value": "https://t.me/rexaprivateroom",
+      "value": "https://t.me/riogroupsupport",
       "required": false
     },
     "OWNER_ID": {
@@ -98,7 +98,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Silahkan /skip saja ",
-      "value": "https://github.com/Rexashh/xamusicv2",
+      "value": "https://github.com/RioProjectX/rio-musicV2",
       "required": true
     },
     "UPSTREAM_BRANCH": {
