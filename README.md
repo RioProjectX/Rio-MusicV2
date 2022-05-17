@@ -11,7 +11,7 @@
 <details>
 <summary><b>🚀 sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
-<h4>ᴀᴍʙɪʟ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇʟᴀʟᴜɪ xᴀ sᴛʀɪɴɢ ʙᴏᴛ: </h4>    
+<h4>ᴀᴍʙɪʟ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇʟᴀʟᴜɪ  sᴛʀɪɴɢ ʙᴏᴛ: </h4>    
 <p><a href="https://t.me/xastringrobot"><img src="https://img.shields.io/badge/xa%20string%20bot-black?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
@@ -29,9 +29,9 @@
 <summary><b>🚀 ᴄᴏɴᴛᴀᴄᴛ & sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs</b></summary>
 
 ## ᴄᴏɴᴛᴀᴄᴛ
-- [ᴄʜᴀɴɴᴇʟ](https://t.me/tirexgugel)
-- [ɢʀᴏᴜᴘ](https://t.me/rexaprivateroom)
-- [ᴏᴡɴᴇʀ](https://t.me/JustRex)
+- [ᴄʜᴀɴɴᴇʟ](https://t.me/rioprojects)
+- [ɢʀᴏᴜᴘ](https://t.me/riogroupsupport)
+- [ᴏᴡɴᴇʀ](https://t.me/fckualot)
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs
 
